@@ -1,3 +1,7 @@
 1. hodina: Python
 
 Ahoj
+
+Auto
+
+Slovo
